@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Anas!
 
 I am an **Economist** with a passion for solving and exploring social and economic problems through data-driven insights. I specialize in **Development Economics**, and my work revolves around economic research and analysis, with a strong focus on spatial analysis, economic indicators, and industrial growth.
 
